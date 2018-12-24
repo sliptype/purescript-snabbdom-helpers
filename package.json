@@ -1,0 +1,26 @@
+{
+  "name": "purescript-snabbdom-helpers",
+  "version": "0.0.0",
+  "description": "Helpers that make purescript-snabbdom more terse",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sliptype/purescript-snabbdom-helpers.git"
+  },
+  "keywords": [
+    "purescript",
+    "snabbdom"
+  ],
+  "author": "Sebastian Klinger (https://github.com/sliptype)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sliptype/purescript-snabbdom-helpers/issues"
+  },
+  "homepage": "https://github.com/sliptype/purescript-snabbdom-helpers#readme"
+}
