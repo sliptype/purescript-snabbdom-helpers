@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/sliptype/purescript-snabbdom-helpers/issues"
   },
-  "homepage": "https://github.com/sliptype/purescript-snabbdom-helpers#readme"
+  "homepage": "https://github.com/sliptype/purescript-snabbdom-helpers#readme",
+  "dependencies": {
+    "snabbdom": "^0.7.3"
+  }
 }
