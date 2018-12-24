@@ -3,6 +3,9 @@
   "set": "0.12.0-20181101",
   "source": "https://github.com/sliptype/package-sets.git",
   "depends": [
+    "foreign-object",
+    "maybe",
+    "web-dom",
     "snabbdom",
     "psci-support",
     "console",
